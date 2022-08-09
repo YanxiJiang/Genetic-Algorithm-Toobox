@@ -1,2 +1,2 @@
 # Genetic-Algorithm-Toobox
-# Thank you for requesting a copy of the Genetic Algorithm Toolbox. 
+# This is a backup copy of MATLAB Genetic Algorithm Toolbox developed by the University of Sheffield, UK. 
